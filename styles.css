@@ -1,0 +1,101 @@
+
+
+/*
+.chart1 {
+    height: 420px;
+     width: auto;
+     float: right;
+     margin: 30px;
+
+}
+ 
+ hiragana chart pic
+ 
+*/
+
+body {
+    background-image: url('YenBG.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+    
+}
+
+.logo {
+    width: 100%;
+    display:block;
+    height:220px;
+    border: solid black 1px;
+}
+
+.dog {
+    
+    width: 30%;
+    display:block;
+    height:330px;
+    
+    position: absolute;
+      bottom: 8px;
+      right: 16px;
+
+}
+
+.oso {
+    width: 30%;
+    display:block;
+    height:330px;
+    
+  
+      left: 16px;
+
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: hsla(200,0%,0%,.7);
+  font-size: 350%;
+  margin: 10px;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  color: hsla(200,0%,0%,.7);
+  font-size: 150%;
+  margin: 30px;
+}
+
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  color: hsla(200,0%,0%,.7);
+  font-size: 150%;
+  margin: 30px;
+}
+
+table, th, td {
+  border: 2px solid black;
+  margin: 20px;
+  table-layout: fixed;
+    width: 100px;
+}
+
+
+th, td {
+  padding: 5px;
+}
+
+
+h3{
+    margin: 30px;
+}
+
+.content {
+    max-width: 1000px;
+    background: #fbc6c9;
+    padding: 10px;
+    margin: auto;
+
+}
+
+
